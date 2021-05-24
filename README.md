@@ -1,5 +1,5 @@
 # school-management-system kida aleh
-Admin Features /n
+# Admin Features 
 Add/update/delete students information
 Add/update/delete teachers information
 Add/update/delete parents information
@@ -10,7 +10,7 @@ Get feedback from Students/Parents
 Manage transportation details
 Edit system settings
 Send Message to Teacher/Parents/Students
-Teacher Features
+# Teacher Features
 Add/update/delete students information
 Import/Export marks as CSV
 Add/update/delete parents information
@@ -21,7 +21,7 @@ Manage login's for students/parents
 Send message to parents
 Manage marks/attendance/exams/classes
 Send marksheets to parents email
-Parent Features
+# Parent Features
 View teacher's profile
 View school transportation and routes
 View subject details
