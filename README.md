@@ -1,5 +1,5 @@
 # school-management-system kida aleh
-Admin Features
+Admin Features /n
 Add/update/delete students information
 Add/update/delete teachers information
 Add/update/delete parents information
